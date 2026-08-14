@@ -265,35 +265,105 @@ The robot was controlled through Bluetooth communication between a remote contro
 ---
 
 # Activities
-## Educational Activities
-- ### NECTEC Smart Summer Internship
-I successfully qualified for a research internship at the National Electronics and Computer Technology Center (NECTEC) from March 24 to April 30, 2025. I worked in the Image Processing and Understanding(IPU) Department under the Artificial Intelligence Research Group(AINRG). During those times, I worked on 3 projects; 
--Hand Gesture Detection
--Vehicle Tracking
--Real Face and Photo Classification
+## NECTEC Smart Summer Internship
 
-Vehicle Tracking: Developed a YOLO-based vehicle detection and tracking system to identify vehicles and extract attributes such as license plate information and color.
+### Image Processing and Understanding Department
+### Artificial Intelligence Research Group
 
-Hand Gesture Detection: Used MediaPipe hand landmarks with OpenCV to detect and process hand gestures from camera input.
+**March 24 – April 30, 2025**
 
-- ### Yothinburana Robot Club President
-I was appointed President of the YB Robot Club, where I was responsible for mentoring junior members and preparing teams for various competitions. I shared technical knowledge and competition experience to help members improve their performance and problem-solving skills.
-I was also responsible for selecting new members through a screening process that was later voted on by senior members of the club. Through leading the club, I developed strong leadership, communication, and team management skills, as well as the ability to effectively prepare teams for competitive environments.
+I qualified for a research internship at the **National Electronics and Computer Technology Center (NECTEC)**.
 
-- ### Harbin Engineering University AI Training Camp
-From March 27 to April 24, 2024, I participated in a one-month summer study abroad program in Artificial Intelligence at Harbin Engineering University. During the program, I studied fundamental concepts in AI and basic logical reasoning, which strengthened my understanding of the field. I also had the opportunity to visit research laboratories and observe academic research environments. Through this experience, I gained valuable insights into artificial intelligence, university life, and living in a dormitory.
+During the internship, I worked on three computer vision projects.
 
-- ### TPA 2024 Test
-Completing an online qualification examination to earn a position in TPA RoboRescue 2024.
+### Vehicle Tracking
 
-- ### YB Robot Starter Camp
-Each summer, the YB Robot Club organizes a robotics camp for students interested in robotics. As a senior member and club president, I was responsible for planning, managing, and overseeing camp activities. The program covered fundamental robotics concepts, including logical thinking, mechanical assembly, and programming. Through leading this camp, I further developed my sense of responsibility, leadership, and management skills.
+Developed a vehicle detection and tracking system using a **YOLO-based model**.
 
-- ### YB Robot Open House
-Hosted a booth to promote the YB Robot Club to students attending the Yothinburana Open House and are interested in Robotics.
+The system was designed to detect vehicles and extract information such as vehicle type, license plate information, and color.
 
-- ### Thailand’s National Outstanding Youth Award
-Presented to youths who represents Thailand in international events. 
+### Hand Gesture Detection
 
-- ### Honorary Award for Exemplary Yothinburana Student
-Presented to students who enhanced the school’s reputation through their achievements.
+Used **MediaPipe** and OpenCV to process camera input and detect hand landmarks as the basis for hand gesture recognition.
+
+### Real Face and Photo Classification
+
+Worked on a system for distinguishing between real faces and photographs using facial landmark information and image processing techniques.
+
+**Technologies:**  
+`Python` `YOLO` `MediaPipe` `OpenCV` `Computer Vision`
+
+**→ [View Internship Experience](experience/nectec-internship.md)**
+
+---
+
+## President — Yothinburana Robot Club
+
+I served as President of the Yothinburana Robot Club, where I was responsible for leading members and preparing teams for robotics competitions.
+
+My responsibilities included:
+
+- Mentoring junior members
+- Teaching robotics and programming
+- Preparing competition teams
+- Managing technical development
+- Organizing club activities
+- Selecting new members
+- Coordinating senior members and competition teams
+
+I also helped members apply technical knowledge and competition experience developed by previous generations of the club.
+
+This experience strengthened my skills in:
+
+`Team Leadership` · `Technical Mentoring` · `Project Management` · `Communication` · `Team Collaboration`
+
+---
+
+## Harbin Engineering University — AI Training Camp
+
+**March 27 – April 24, 2024**
+
+Participated in a one-month study abroad program focused on Artificial Intelligence.
+
+Studied fundamental AI concepts and logical reasoning while visiting research laboratories and experiencing an academic research environment.
+
+---
+
+## TPA Robo Rescue 2024 Qualification
+
+Completed the online qualification examination required to participate in the TPA Robo Rescue competition.
+
+---
+
+## YB Robot Starter Camp
+
+Helped plan, manage, and oversee the Yothinburana Robot Club's annual robotics camp.
+
+The program introduced students to:
+
+- Logical thinking
+- Mechanical assembly
+- Programming
+- Fundamental robotics
+
+---
+
+## YB Robot Open House
+
+Hosted a robotics club booth during the Yothinburana Open House to introduce students to robotics and the YB Robot Club.
+
+---
+
+## Thailand's National Outstanding Youth Award
+
+Presented to youths representing Thailand in international events.
+
+---
+
+## Honorary Award for Exemplary Yothinburana Student
+
+Presented to students who contributed to and enhanced the reputation of Yothinburana School.
+
+---
+
+
