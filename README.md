@@ -11,8 +11,12 @@ I am a first year at Chulalongkorn University, majoring in Computer Engineering 
 <img src="https://github.com/LEST0808/Vichaiwat-Koonsap-Portfolio/blob/main/resources/fusion.png" width="75" height="75">
 
 ### Personal Skill
--Team Leading
--Critical Thinking
--Team Working
--Fast Learning
--Multi Department Collaboration.
+- Team Leading
+
+- Critical Thinking
+
+- Team Working
+
+- Fast Learning
+
+- Multi Department Collaboration.
