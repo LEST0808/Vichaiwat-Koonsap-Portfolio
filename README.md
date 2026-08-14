@@ -35,7 +35,7 @@ And, currently I'm aiming to learn more about software developments, machine lea
 
 # Competitions
 ## **International Competition**
-- ### WRO Future Engineers International, Panama 2023: 7th place out of 60 countries.
+- ### <img src="https://github.com/LEST0808/Vichaiwat-Koonsap-Portfolio/blob/main/resources/thaiflag.png" width="20" height="20"> WRO Future Engineers International, Panama 2023: 7th place out of 60 countries. <img src="https://github.com/LEST0808/Vichaiwat-Koonsap-Portfolio/blob/main/resources/thaiflag.png" width="20" height="20">
 This competition was my first experience competing at an international level. It was held at the Panama Convention Center and featured teams from more than 40 countries, including the United States, Germany, Japan, and Canada. I achieved 7th place, allowing Thailand to be announced during the award ceremony.
 I used a POP-32 microcontroller as the main control unit, programmed using the Arduino IDE. In addition to system development, I was responsible for preparing technical documentation required for the competition.
 
@@ -55,7 +55,7 @@ WRO Future Engineers is an autonomous robotics competition that integrates progr
 For this competition, I built a robot using an Arduino Uno with a motor driver and sensor shield. I implemented a vision-based obstacle detection system using a camera, combined with ultrasonic sensors for distance measurement. A PID control algorithm was used to regulate the steering servo and maintain stable trajectory control. With this system, the robot successfully completed all tasks and achieved first place, and granting me the chance to compete internationally at WRO Panama.
 Through this competition, I strengthened my understanding of computer vision and sensor fusion.
 
-- ### WRG Soccer Robot 1x1: 4th place
+- ### WRG Soccer Robot 1x1: 4th place 
 This soccer robot uses 3 motors, each placed at 60 degrees apart. We developed a function which help us control those movement better, giving us the ability to move to any position we want without turning with the help of omni-directional wheel. I use a camera to track the moving orange ball on the field, using a function which tracks how far the ball is from the robot, giving us a better approach toward the ball. I designed the robot with a place to hide an additional weight inside, making the robot able to push the opponent out of the way.
 
 - ### WRO Future Engineers Thailand 2024: 4th Place
