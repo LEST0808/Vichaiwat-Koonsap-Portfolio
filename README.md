@@ -2,7 +2,7 @@
 
 # About me
 ## Profile:
-I am a first year at Chulalongkorn University, majoring in Computer Engineering and Digital Technology(CEDT). I have been working with robots since 2019, developing the skills to work on both software and hardware for robotic systems. I have competed in both nationally and internationally. With my experiences, I was given the role of President of Yothinburana Robot Club.
+I am currently a first year at Chulalongkorn University, majoring in Computer Engineering and Digital Technology(CEDT). I have been working with robots since 2019, developing the skills to work on both software and hardware for robotic systems. I have competed in both nationally and internationally. With my experiences, I was given the role of President of Yothinburana Robot Club.
 And, currently I'm aiming to learn more about software developments, machine learning, and computer vision.
 
 ## Contact Information
@@ -16,6 +16,9 @@ And, currently I'm aiming to learn more about software developments, machine lea
 
 ### Hardware:
 <img src="https://github.com/LEST0808/Vichaiwat-Koonsap-Portfolio/blob/main/resources/fusion.png" width="75" height="75">
+
+**My Robot Designs**
+
 
 ### Personal Skill:
 - Team Leading
@@ -34,7 +37,7 @@ And, currently I'm aiming to learn more about software developments, machine lea
 - ### College: Computer Engineering and Digital Technology(CEDT), Chulalongkorn University (Currently First Year)
 
 # Competitions
-## **International Competition**
+## **International Competition:**
 - ### <img src="https://github.com/LEST0808/Vichaiwat-Koonsap-Portfolio/blob/main/resources/thaiflag.png" width="20" height="20"> WRO Future Engineers International, Panama 2023: 7th place out of 60 countries. <img src="https://github.com/LEST0808/Vichaiwat-Koonsap-Portfolio/blob/main/resources/thaiflag.png" width="20" height="20">
 This competition was my first experience competing at an international level. It was held at the Panama Convention Center and featured teams from more than 40 countries, including the United States, Germany, Japan, and Canada. I achieved 7th place, allowing Thailand to be announced during the award ceremony.
 I used a POP-32 microcontroller as the main control unit, programmed using the Arduino IDE. In addition to system development, I was responsible for preparing technical documentation required for the competition.
@@ -43,7 +46,7 @@ I used a POP-32 microcontroller as the main control unit, programmed using the A
 I competed in the RoboCup Junior Robot Soccer category, using an ESP32 as the main controller for its Wi-Fi capabilities. The robot was mechanically designed in Fusion 360 and programmed using the Arduino IDE. For vision and control, the robot tracked an orange ball using PID control and a conical mirror to achieve omnidirectional awareness. Two cameras were used: OpenMV for the conical mirror system and Pixy2 for front-facing ball tracking.
 This was my second international competition, held in Singapore. At the start of the competition, our performance was below expectations. However, after iterative software adjustments, the robot showed significant improvement, and our team ultimately achieved second place.
 
-## **National Competition**
+## **National Competition:**
 - ### 🥇TPA Robo Rescue With Micro-ROS 2025: First Place🥇
 Robo-Rescue with microROS is an autonomous robotics competition focused on obstacle avoidance and survivor search.  The competition uses microROS, a lightweight subset of ROS 2 (Robot Operating System 2) that has been adapted to run on microcontroller boards such as the ESP-32. This is my proudest achievement because the competition underwent significant changes compared to the previous year. One of the major changes was the introduction of microROS instead of a conventional standalone C++ system, which greatly increased the technical difficulty. Before being allowed to compete, teams were required to pass a selection process. With limited time to prepare, I independently researched the microROS system and its architecture in order to understand its communication framework and successfully prepare for the test.
 
@@ -72,3 +75,33 @@ This competition focuses on utilizing light sensors. There are two rounds of com
 
 - ### 🥈LEGO Robot Battle: 1st Runner-Up🥈
 This is a competition where my robot club likes to compete to relax from other competition since it relies heavily on hardware rather than software. The competition itself is just robot pushing other robot out of the stadium. It is pretty relaxing but also challenging. 
+
+# Activities
+## Educational Activities
+- ### NECTEC Smart Summer Internship
+I successfully qualified for a research internship at the National Electronics and Computer Technology Center (NECTEC) from March 24 to April 30, 2025. I worked in the Image Processing and Understanding(IPU) Department under the Artificial Intelligence Research Group(AINRG). During those times, I worked on 3 projects; 
+-Hand Gesture Detection
+-Vehicle Tracking
+-Real Face and Photo Classification
+
+- ### Yothinburana Robot Club President
+I was appointed President of the YB Robot Club, where I was responsible for mentoring junior members and preparing teams for various competitions. I shared technical knowledge and competition experience to help members improve their performance and problem-solving skills.
+I was also responsible for selecting new members through a screening process that was later voted on by senior members of the club. Through leading the club, I developed strong leadership, communication, and team management skills, as well as the ability to effectively prepare teams for competitive environments.
+
+- ### Harbin Engineering University AI Training Camp
+From March 27 to April 24, 2024, I participated in a one-month summer study abroad program in Artificial Intelligence at Harbin Engineering University. During the program, I studied fundamental concepts in AI and basic logical reasoning, which strengthened my understanding of the field. I also had the opportunity to visit research laboratories and observe academic research environments. Through this experience, I gained valuable insights into artificial intelligence, university life, and living in a dormitory.
+
+- ### TPA 2024 Test
+Completing an online qualification examination to earn a position in TPA RoboRescue 2024.
+
+- ### YB Robot Starter Camp
+Each summer, the YB Robot Club organizes a robotics camp for students interested in robotics. As a senior member and club president, I was responsible for planning, managing, and overseeing camp activities. The program covered fundamental robotics concepts, including logical thinking, mechanical assembly, and programming. Through leading this camp, I further developed my sense of responsibility, leadership, and management skills.
+
+- ### YB Robot Open House
+Hosted a booth to promote the YB Robot Club to students attending the Yothinburana Open House and are interested in Robotics.
+
+- ### Thailand’s National Outstanding Youth Award
+Presented to youths who represents Thailand in international events. 
+
+- ### Honorary Award for Exemplary Yothinburana Student
+Presented to students who enhanced the school’s reputation through their achievements.
