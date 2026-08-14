@@ -2,8 +2,13 @@
 
 # About me
 ## Profile:
-I am currently a first year at Chulalongkorn University, majoring in Computer Engineering and Digital Technology(CEDT). I have been working with robots since 2019, developing the skills to work on both software and hardware for robotic systems. I have competed in both nationally and internationally. With my experiences, I was given the role of President of Yothinburana Robot Club.
-And, currently I'm aiming to learn more about software developments, machine learning, and computer vision.
+I am a Computer Engineering and Digital Technology (CEDT) student at Chulalongkorn University with experience in robotics since 2019. Over the years, I have developed autonomous robotic systems involving embedded programming, computer vision, sensor integration, control systems, and mechanical design.
+
+I have competed in both national and international robotics competitions, including achieving 7th place internationally at WRO Future Engineers 2023 in Panama, First Runner-Up at RoboCup Singapore 2025, and First Place at TPA Robo Rescue with micro-ROS 2025.
+
+Beyond competing, I have led the Yothinburana Robot Club as President, mentored junior members, and helped organize robotics activities and training programs.
+
+I am currently expanding my knowledge beyond robotics into software development, machine learning, and computer vision, with the goal of developing intelligent systems that combine software, hardware, and AI.
 
 ## Contact Information
 - Tel: (+66)094-817-8817
@@ -17,19 +22,34 @@ And, currently I'm aiming to learn more about software developments, machine lea
 ### Hardware:
 <img src="https://github.com/LEST0808/Vichaiwat-Koonsap-Portfolio/blob/main/resources/fusion.png" width="75" height="75">
 
-**My Robot Designs**
+### Robotics Control System:
+- Autonomous Navigation
+- PID Control
+- Sensor Integration
+- Sensor Fusion
+- ROS 2 / micro-ROS
+- LiDAR
+- AMCL
+- Omnidirectional Robot Control
+- Embedded Systems
+
+### Computer Vision
+- Object Detection
+- Object Tracking
+- Image Processing
+- Camera-based Robot Control
+- YOLO
+- MediaPipe
+- OpenCV
+
+### My Robot Designs
 
 
 ### Personal Skill:
-- Team Leading
-
-- Critical Thinking
-
-- Team Working
-
-- Fast Learning
-
-- Multi Department Collaboration.
+- Team Leadership
+- Technical Mentoring
+- Project Management
+- Cross-functional Collaboration
 
 ## Education:
 - ### Primary School: Chonprathan Wittaya School (English Program) (Y1-Y6)
@@ -40,10 +60,10 @@ And, currently I'm aiming to learn more about software developments, machine lea
 ## **International Competition:**
 - ### <img src="https://github.com/LEST0808/Vichaiwat-Koonsap-Portfolio/blob/main/resources/thaiflag.png" width="20" height="20"> WRO Future Engineers International, Panama 2023: 7th place out of 60 countries. <img src="https://github.com/LEST0808/Vichaiwat-Koonsap-Portfolio/blob/main/resources/thaiflag.png" width="20" height="20">
 This competition was my first experience competing at an international level. It was held at the Panama Convention Center and featured teams from more than 40 countries, including the United States, Germany, Japan, and Canada. I achieved 7th place, allowing Thailand to be announced during the award ceremony.
-I used a POP-32 microcontroller as the main control unit, programmed using the Arduino IDE. In addition to system development, I was responsible for preparing technical documentation required for the competition.
+I used a POP-32 microcontroller as the main control unit, programmed using the Arduino IDE. For the mission, a camera and an ultrasonic sensor were used to help the robot navigate through the obstacle without hitting them. And for the robot to know where to turn, that is where the light sensors came in. There are two light sensors with separate colors, one is red and the other is blue. Red detect the blue line, causing the robot to turn counter-clockwise while blue does the opposite. In addition to system development, I was responsible for preparing technical documentation required for the competition.
 
 - ### 🥈RoboCup Singapore Soccer Open 2025: First Runner-Up🥈
-I competed in the RoboCup Junior Robot Soccer category, using an ESP32 as the main controller for its Wi-Fi capabilities. The robot was mechanically designed in Fusion 360 and programmed using the Arduino IDE. For vision and control, the robot tracked an orange ball using PID control and a conical mirror to achieve omnidirectional awareness. Two cameras were used: OpenMV for the conical mirror system and Pixy2 for front-facing ball tracking.
+I competed in the RoboCup Junior Robot Soccer category, using an ESP32 as the main controller for its Wi-Fi capabilities. The robot was mechanically designed in Fusion 360 and programmed using the Arduino IDE. For vision and control, the robot tracked an orange ball using PID control and a conical mirror to achieve omnidirectional awareness. Two cameras were used: OpenMV for the conical mirror system and Pixy2 for front-facing ball tracking. The robot were able to move to any direction without turning with the help of an omni-directional wheel(Wheels with small wheel on the outside). The wheel were place separately with 90 degrees apart. With basic physics, we can calculate the power of each motor to make the robot move to each direction.
 This was my second international competition, held in Singapore. At the start of the competition, our performance was below expectations. However, after iterative software adjustments, the robot showed significant improvement, and our team ultimately achieved second place.
 
 ## **National Competition:**
@@ -59,22 +79,22 @@ For this competition, I built a robot using an Arduino Uno with a motor driver a
 Through this competition, I strengthened my understanding of computer vision and sensor fusion.
 
 - ### WRG Soccer Robot 1x1: 4th place 
-This soccer robot uses 3 motors, each placed at 60 degrees apart. We developed a function which help us control those movement better, giving us the ability to move to any position we want without turning with the help of omni-directional wheel. I use a camera to track the moving orange ball on the field, using a function which tracks how far the ball is from the robot, giving us a better approach toward the ball. I designed the robot with a place to hide an additional weight inside, making the robot able to push the opponent out of the way.
+This soccer robot uses 3 motors, each placed at 120 degrees apart. We developed a function which help us control those movement better, giving us the ability to move to any position we want without turning with the help of omni-directional wheel. I use a camera to track the moving orange ball on the field, using a function which tracks how far the ball is from the robot, giving us a better approach toward the ball. I designed the robot with a place to hide an additional weight inside, making the robot able to push the opponent out of the way.
 
 - ### WRO Future Engineers Thailand 2024: 4th Place
 This is my second time competing in this competition. Although with our experiences, we should've gotten a better result. But unfortunately, our microcontroller broke during the second competition day and we have no replacement, dropping us to fourth place.
 
 - ### PIM Robotics Playground Line tracing Open: Participate
-This is one of the easiest competition since it's just line tracing. We use a simple PID algorithm with 8 sensors to help robot stays on track. I also designed the robot frame using Fusion 360, it helps the robot to stick closer to the ground, avoiding drifting. Although the robot itself is easy to make, the competition is hard since it was time based. We performed our best but the other uses faster motor, which we cannot keep up. I learned the information about the motor and bought it for the next 46 ICT line tracing competition.
+This was one of the simpler competitions, as it focused primarily on line tracing. We use a simple PID algorithm with 8 sensors to help robot stays on track. I also designed the robot frame using Fusion 360, it helps the robot to stick closer to the ground, avoiding drifting. Although the robot itself is easy to make, the competition is hard since it was time based. We performed our best but the other uses faster motor, which we cannot keep up. I learned the information about the motor and bought it for the next 46 ICT line tracing competition.
 
 - ### 🥇46 ICT Fast Line Tracing Competition: Gold Medal🥇
 This is a fast line-tracing robot competition for grade 10 to 12. I used PID formula with 8 sensors to follow the line combining with 3D printed frame. Combining those with the faster motor we got from the last PIM competition, we were able to achieved a gold medal.
 
 - ### 🥇Silipa 71 Intermediate Robotics Grade 10-12: Gold Medal🥇
-This competition focuses on utilizing light sensors. There are two rounds of competition: normal and maze. The normal we were given 1 hours to prepare for the track that every competitors know how it looks, i created a function that helps me write the code for each part of the track faster. The maze is a little more complicated since the robot needs to run on it's own without knowing what the tracks looks like. I wrote a program that makes the robot walks block by block, and after each block, the robot turns right to check whether there are black line or not. If there is, it saves the current position using simple array and walks forward until it can't find another way. Then it will comeback to the saved position and start again on other direction. With this algorithm, we were given a gold medal.
+This competition focuses on utilizing light sensors. There are two rounds of competition: normal and maze. The normal we were given 1 hours to prepare for the track that every competitors know how it looks, "I developed a modular function that allowed me to rapidly implement the control logic for different sections of the track.. The maze is a little more complicated since the robot needs to run on it's own without knowing what the tracks looks like. I wrote a program that makes the robot walks block by block, and after each block, the robot turns right to check whether there are black line or not. If there is, it saves the current position using simple array and walks forward until it can't find another way. Then it will comeback to the saved position and start again on other direction. With this algorithm, we were given a gold medal.
 
 - ### 🥈LEGO Robot Battle: 1st Runner-Up🥈
-This is a competition where my robot club likes to compete to relax from other competition since it relies heavily on hardware rather than software. The competition itself is just robot pushing other robot out of the stadium. It is pretty relaxing but also challenging. 
+This competition relies heavily on hardware rather than software. The hard part is designing and building the robot. Since it was made using a Lego Technic parts, there are a lot of restriction to put each part together. And after designing the core movement system, we need to look into the weapons. I chose a Lego separator tool. By flipping it upside down and place at the correct angle, It has the ability to scrape the floor and ram the opponent's robot. And the software uses a simple Bluetooth function. There is a remote and robot brain. The remote sends the data via Bluetooth to the brain with if-else logic. For example, if the left-back touch sensor is activated, the left motor would move forward.
 
 # Activities
 ## Educational Activities
@@ -83,6 +103,10 @@ I successfully qualified for a research internship at the National Electronics a
 -Hand Gesture Detection
 -Vehicle Tracking
 -Real Face and Photo Classification
+
+Vehicle Tracking: Developed a YOLO-based vehicle detection and tracking system to identify vehicles and extract attributes such as license plate information and color.
+
+Hand Gesture Detection: Used MediaPipe hand landmarks with OpenCV to detect and process hand gestures from camera input.
 
 - ### Yothinburana Robot Club President
 I was appointed President of the YB Robot Club, where I was responsible for mentoring junior members and preparing teams for various competitions. I shared technical knowledge and competition experience to help members improve their performance and problem-solving skills.
