@@ -46,6 +46,8 @@ I am currently learning beyond robotics into **software development, machine lea
 `Arduino` `ESP32` `POP-32` `Pixy2` `OpenMV`  
 `Fusion 360` `3D Printing`
 
+> **[📄 Click here to view my robot designs](projects/robot.md)**
+
 ### Leadership & Collaboration
 
 `Team Leadership` `Technical Mentoring`  
