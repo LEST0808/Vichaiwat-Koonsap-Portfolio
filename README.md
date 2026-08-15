@@ -7,7 +7,7 @@
 - [🏆 Competition Highlights](#-competition-highlights)
 - [🌏 Additional Activities](#-additional-activities)
 - [🎓 Education](#-education)
-- [🌱 Currently Learning](#-currently-learning)
+- [🌱 2 Years Knowledge Goal](#-2-years-knowledge-goal)
 
 # 😎 About Me
 
@@ -18,6 +18,7 @@ Over the years, I have developed autonomous robotic systems involving **embedded
 I have competed in both national and international robotics competitions, including **7th place out of 60 countries at WRO Future Engineers International 2023 in Panama**, **First Runner-Up at RoboCup Singapore Soccer Open 2025**, and **First Place at TPA Robo Rescue with micro-ROS 2025**.
 
 Beyond competitions, I served as **President of the Yothinburana Robot Club**, where I mentored junior members, prepared competition teams, and organized robotics activities and training programs.
+> **[📄 Click here to view my recommendation letter From Club Advisor](documents/recommendation-letter.pdf)**
 
 I am currently learning beyond robotics into **software development, machine learning, and computer vision**, with the goal of developing intelligent systems that combine **software, hardware, and AI**.
 
@@ -89,7 +90,7 @@ I have designed and developed robots for **autonomous navigation, robot soccer, 
 | Activity | Type | Focus |
 |---|---|---|
 | [**President — Yothinburana Robot Club**](activities/yothinburana-robot-club.md) | Leadership | Team Leadership · Mentoring · Robotics |
-| [**NECTEC Smart Summer Internship**](competitions/nectec.md) | Excellent | Computer Vision · Internship · Real-World Working |
+| [**NECTEC Smart Summer Internship**](competitions/nectec.md) | Internship | Computer Vision · Internship · Real-World Working |
 | [**Harbin Engineering University — AI Training Camp**](activities/harbin-ai-training-camp.md) | Study Abroad | Artificial Intelligence · Academic Experience |
 | [**TPA Robo Rescue 2024 Qualification**](activities/tpa-robo-rescue-2024.md) | Competition Qualification | Robotics · Autonomous Systems |
 | [**YB Robot Starter Camp**](activities/yb-robot-starter-camp.md) | Mentoring | Robotics · Programming · Education |
@@ -116,9 +117,9 @@ Y1–Y6
 
 ---
 
-# 🌱 Currently Learning
+# 🌱 2 Years Knowledge Goal
 
-I am currently focusing on expanding my knowledge in:
+I am currently aiming on expanding my knowledge in:
 
 - Machine Learning
 - Computer Vision
