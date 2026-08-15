@@ -1,6 +1,15 @@
 # <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50"> Hi, I'm Vichaiwat Koonsap
 
-### Computer Engineering & Digital Technology Student | Robotics | Computer Vision | AI
+## 📑 Table of Contents
+
+- [😎 About Me](#-about-me)
+- [🤖 Featured Robot Projects](#-featured-robot-projects)
+- [🏆 Competition Highlights](#-competition-highlights)
+- [🌏 Additional Activities](#-additional-activities)
+- [🎓 Education](#-education)
+- [🌱 Currently Learning](#-currently-learning)
+
+# 😎 About Me
 
 I am a **Computer Engineering and Digital Technology (CEDT)** student at **Chulalongkorn University** with experience in robotics since 2019.
 
@@ -10,11 +19,11 @@ I have competed in both national and international robotics competitions, includ
 
 Beyond competitions, I served as **President of the Yothinburana Robot Club**, where I mentored junior members, prepared competition teams, and organized robotics activities and training programs.
 
-I am currently expanding my knowledge beyond robotics into **software development, machine learning, and computer vision**, with the goal of developing intelligent systems that combine **software, hardware, and AI**.
+I am currently learning beyond robotics into **software development, machine learning, and computer vision**, with the goal of developing intelligent systems that combine **software, hardware, and AI**.
 
 ---
 
-# 🛠️ Technical Skills
+## 🛠️ Technical Skills
 
 ### Programming
 
@@ -25,15 +34,9 @@ I am currently expanding my knowledge beyond robotics into **software developmen
 ### Robotics
 
 `ROS 2` `micro-ROS` `ESP32` `LiDAR`  
-`AMCL` `PID Control` `Sensor Fusion`  
-`Autonomous Navigation` `Embedded Systems`  
+`AMCL` `PID Control` `Autonomous Navigation`
+`Embedded Systems`  
 `Omnidirectional Robot Control`
-
-### Computer Vision & AI
-
-`OpenCV` `YOLO` `MediaPipe`  
-`Object Detection` `Object Tracking`  
-`Image Processing` `Camera-based Robot Control`
 
 ### Hardware & Design
 
@@ -57,24 +60,12 @@ I have designed and developed robots for **autonomous navigation, robot soccer, 
 |---|---|---|
 | **TPA Robo Rescue 2025** | micro-ROS · LiDAR · AMCL · ESP32 | 🥇 1st Place |
 | **RoboCup Soccer Robot 2025** | ESP32 · OpenMV · Pixy2 · PID · Omni Wheels | 🥈 1st Runner-Up |
-| **WRO Future Engineers 2023** | Arduino · Computer Vision · PID · Sensors | 🥇 1st Place |
-| **WRG Soccer Robot** | Computer Vision · Omni Wheels · Fusion 360 | 4th Place |
-
-### 🔧 Robot Design Gallery
-
-I keep detailed robot designs and technical documentation on separate pages to keep this README clean.
-
-- **[Robot Project 1](projects/robot-project-1.md)** — Autonomous robot design and technical development
-- **[Robot Project 2](projects/robot-project-2.md)** — Omnidirectional soccer robot with computer vision
-- **[Robot Project 3](projects/robot-project-3.md)** — Autonomous navigation robot using LiDAR and micro-ROS
-
-**→ [View All Robot Projects](projects/)**
+| **WRO Future Engineers 2023 Thailand** | Arduino · Computer Vision · PID · Sensors | 🥇 1st Place |
+| **WRO Future Engineers 2023 International** | Arduino · Computer Vision · PID · Sensor | <img src="resources/thaiflag.png" width="25" height="25"> 7th Place |
 
 ---
 
 # 🏆 Competition Highlights
-
-## 🏆 Competition Highlights
 
 | Competition | Result | Main Focus |
 |---|---:|---|
@@ -88,70 +79,26 @@ I keep detailed robot designs and technical documentation on separate pages to k
 | [**Silapa 71 Intermediate Robotics**](competitions/silapa.md) | 🥇 Gold Medal | Maze Solving |
 | [**LEGO Robot Battle**](competitions/lego.md) | 🥈 First Runner-Up | Mechanical Design |
 | [**PIM Robotics Playground Line Tracing**](competitions/pim.md) | Participation | PID · 3D Design |
-| [**NECTEC Smart Summer Internship**](competitions/nectec.md) | Excellent | Computer Vision |
 
-> **→ Click any competition to view its detailed case study, including the robot design, technologies, technical challenges, development process, competition performance, and lessons learned.**
-
-# 💼 Experience & Leadership
-
-## President — Yothinburana Robot Club
-
-I served as President of the **Yothinburana Robot Club**, where I was responsible for leading members and preparing teams for robotics competitions.
-
-My responsibilities included:
-
-- Mentoring junior members
-- Teaching robotics and programming
-- Preparing competition teams
-- Managing technical development
-- Organizing club activities
-- Selecting new members
-- Coordinating senior members and competition teams
-
-I also helped members apply technical knowledge and competition experience developed by previous generations of the club.
-
-Through this role, I developed strong skills in:
-
-`Team Leadership` · `Technical Mentoring` · `Project Management` · `Communication` · `Team Collaboration`
+> **→ Click any competition to explore its detailed case study, including the robot, technical challenges, development process, and competition performance.**
 
 ---
 
-# 🌏 Additional Experiences
+# 🌏 Additional Activities
 
-## Harbin Engineering University — AI Training Camp
+| Activity | Type | Focus |
+|---|---|---|
+| [**President — Yothinburana Robot Club**](activities/yothinburana-robot-club.md) | Leadership | Team Leadership · Mentoring · Robotics |
+| [**NECTEC Smart Summer Internship**](competitions/nectec.md) | Excellent | Computer Vision · Internship · Real-World Working |
+| [**Harbin Engineering University — AI Training Camp**](activities/harbin-ai-training-camp.md) | Study Abroad | Artificial Intelligence · Academic Experience |
+| [**TPA Robo Rescue 2024 Qualification**](activities/tpa-robo-rescue-2024.md) | Competition Qualification | Robotics · Autonomous Systems |
+| [**YB Robot Starter Camp**](activities/yb-robot-starter-camp.md) | Mentoring | Robotics · Programming · Education |
+| [**YB Robot Open House**](activities/yb-robot-open-house.md) | Outreach | Robotics · Communication · Community |
+| [**Thailand's National Outstanding Youth Award**](activities/national-outstanding-youth-award.md) | Award | National Recognition · International Representation |
+| [**Honorary Award for Exemplary Yothinburana Student**](activities/exemplary-yothinburana-student-award.md) | Award | School Contribution · Recognition |
 
-**March 27 – April 24, 2024**
+> **→ Click any activity to view its detailed experience, responsibilities, and highlights.**
 
-Participated in a one-month study abroad program focused on **Artificial Intelligence**.
-
-Studied fundamental AI concepts and logical reasoning while visiting research laboratories and experiencing an academic research environment.
-
----
-
-## TPA Robo Rescue 2024 Qualification
-
-Completed the online qualification examination required to participate in the TPA Robo Rescue competition.
-
----
-
-## YB Robot Starter Camp
-
-Helped plan, manage, and oversee the Yothinburana Robot Club's annual robotics camp.
-
-The program introduced students to:
-
-- Logical thinking
-- Mechanical assembly
-- Programming
-- Fundamental robotics
-
----
-
-## YB Robot Open House
-
-Hosted a robotics club booth during the Yothinburana Open House to introduce students to robotics and the YB Robot Club.
-
----
 
 # 🎓 Education
 
@@ -182,55 +129,3 @@ I am currently focusing on expanding my knowledge in:
 
 My long-term goal is to combine these areas with my robotics background to develop **intelligent autonomous systems**.
 
----
-
-# 🏅 Awards
-
-### Thailand's National Outstanding Youth Award
-
-Presented to youths representing Thailand in international events.
-
-### Honorary Award for Exemplary Yothinburana Student
-
-Presented to students who contributed to and enhanced the reputation of Yothinburana School.
-
----
-
-# 📂 Portfolio Structure
-
-I keep the main README focused on the most important parts of my experience.
-
-Detailed technical documentation, robot designs, competition photos, certificates, and additional materials are organized into separate pages.
-
-```text
-/
-├── README.md
-│
-├── projects/
-│   ├── robot-project-1.md
-│   ├── robot-project-2.md
-│   └── robot-project-3.md
-│
-├── competitions/
-│   ├── tpa-robo-rescue-2025.md
-│   ├── robocup-singapore-2025.md
-│   ├── wro-panama-2023.md
-│   ├── wro-thailand-2023.md
-│   ├── wrg-soccer-1v1.md
-│   └── ...
-│
-├── gallery/
-│   ├── tpa-robo-rescue-2025.md
-│   ├── robocup-singapore-2025.md
-│   ├── wro-panama-2023.md
-│   └── ...
-│
-├── experience/
-│   └── nectec-internship.md
-│
-└── resources/
-    ├── Arduino.png
-    ├── cplusplus.png
-    ├── python.png
-    ├── fusion.png
-    └── thaiflag.png
